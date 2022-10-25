@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: lamponescu.cf
+Token: 1a5e5b1851735b1fe0052b22e016cb32ff2ad3ddfd88ce004b57c7f5f468aa32
